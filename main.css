@@ -69,9 +69,9 @@ nav li a
 nav li a:hover
 {
 	background: white;
-	color: black;
-	-webkit-transform: rotate(5deg) scale(1.2);
-	transform: rotate(5deg) scale(1.2);
+	color: #D23D15;
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
 }
 #cochecito
 {
